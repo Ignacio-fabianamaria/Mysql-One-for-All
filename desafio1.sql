@@ -82,7 +82,7 @@ USE SpotifyClone;
   
    INSERT INTO Musica(nome_musica, album_id, duracao_segundos)
   VALUES
- ('BREAK MY SOU', 1, 279),
+ ('BREAK MY SOUL', 1, 279),
  ('VIRGO’S GROOVE', 1, 369),
  ('ALIEN SUPERSTAR', 1, 116),
  ('Don’t Stop Me Now', 2, 203),
