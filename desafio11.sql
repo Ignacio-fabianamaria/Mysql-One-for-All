@@ -14,7 +14,8 @@ CASE
 END AS 'novo_nome'
 FROM
 SpotifyClone.Musica AS M
-WHERE M.nome_musica LIKE '%Bard%'
+WHERE 
+M.nome_musica LIKE '%Bard%'
 OR M.nome_musica LIKE '%Amar%'
 OR M.nome_musica LIKE '%Pais%'
 OR M.nome_musica LIKE '%SOUL%'
