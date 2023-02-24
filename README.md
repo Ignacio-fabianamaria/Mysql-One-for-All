@@ -1,13 +1,41 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+#  Mysql One For All
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+<div align="center">
+  
+![dockerimg](whale-docker.gif)
+  
+</div> 
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+## :memo: Descrição
+<p>Projeto Mysql One For All</p>
+
+## :books: Objetivos do Projeto: 
+  
+ Fixar os conceitos introdutórios sobre back-end e reforçar o aprendizado sobre Docker, manipulação de containers e imagens.
+  
+  <b>Objetivo proposto :</b>
+  
+* Conteinerizar aplicações
+
+* Criar uma conexão entre elas
+
+* Criar as imagens para as aplicações
+  
+* Configurar essas imagens com o docker-compose  
+  
+  
+## 🤹‍♀️ Habilidades aplicadas no desenvolvimento do projeto: 
+  
+  * Conhecimento dos comandos dockers
+  
+  * habilidade de criar um contêiner Docker
+  
+  * habilidade de orquestrar contêineres utilizando o Docker compose
+  
+
+## :wrench: Tecnologias utilizadas
+  
+* Docker
+  
+* Docker-Compose  
+
