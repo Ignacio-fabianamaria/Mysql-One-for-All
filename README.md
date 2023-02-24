@@ -1,4 +1,4 @@
-#  Mysql One For All
+#  Mysql One For All  <img align="center" alt="Faby-Mysql" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
 
 <div align="center">
   
@@ -7,35 +7,32 @@
 </div> 
 
 ## :memo: Descrição
-<p>Projeto Mysql One For All</p>
+<p>Projeto Mysql One For All possui um clone simplificado do banco de dados da Spotify não normalizado. A proposta deste projeto é justamente  normalizar e popular esta tabela para que seja possivel executar queries com o intuito de encontrar informações .
+
+.</p>
 
 ## :books: Objetivos do Projeto: 
   
- Fixar os conceitos introdutórios sobre back-end e reforçar o aprendizado sobre Docker, manipulação de containers e imagens.
+ Fixar os conceitos introdutórios sobre sql e normalização de tabelas.
   
   <b>Objetivo proposto :</b>
   
-* Conteinerizar aplicações
+* Analisar tabelas não normalizadas.
 
-* Criar uma conexão entre elas
+* Identificar modificações necessárias para que as tabelas estejam adequadamente na 1ª, 2ª e 3ª Forma Normais.
 
-* Criar as imagens para as aplicações
-  
-* Configurar essas imagens com o docker-compose  
-  
-  
-## 🤹‍♀️ Habilidades aplicadas no desenvolvimento do projeto: 
-  
-  * Conhecimento dos comandos dockers
-  
-  * habilidade de criar um contêiner Docker
-  
-  * habilidade de orquestrar contêineres utilizando o Docker compose
+* Criar um banco de dados a partir de uma planilha que contém tabelas e dados.
+
+* Criar e modelar tabelas.
+
+* Aplicar queries que passam pelos principais comandos SQL.
   
 
 ## :wrench: Tecnologias utilizadas
   
 * Docker
   
-* Docker-Compose  
+* Mysql 
+
+* MySQL Workbench
 
